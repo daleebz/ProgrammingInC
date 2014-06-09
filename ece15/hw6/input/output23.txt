@@ -1,0 +1,4 @@
+Matrix size: Row 1 digits: Row 2 digits: Row 3 digits: After clockwise rotation:
+7 5 0
+4 3 4
+1 2 5

@@ -1,0 +1,6 @@
+1c1
+< 10 20 20 
+\ No newline at end of file
+---
+> -1217340792 0 0 1 4 10 20 20 2199 5290232 
+\ No newline at end of file

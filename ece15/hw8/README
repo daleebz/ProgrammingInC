@@ -1,0 +1,19 @@
+To compile problem 1:
+
+gcc -Wall -std=c99 -lm sortFile.c myFunctions.c -o sortFile.out
+
+To compile problem 2:
+
+gcc -Wall -std=c99 -lm statistics.c myFunctions.c -o statistics.out
+
+To compile problem 3:
+
+gcc -Wall -std=c99 -lm car-pol.c myFunctions.c -o car-pol.out
+
+To submit the assigment:
+bundle80 will upload myFunctions.c
+bundle81 will upload sortFile.c
+bundle82 will upload statistics.c
+bundle83 will upload car-pol.c
+
+Good luck! If you have any questions, please ask on Piazza!

@@ -1,0 +1,4 @@
+1c1
+< Enter 8 numbers: The two halves are equal, picking 1 2 3 4
+---
+> Enter 8 numbers: The two halves are equel, picking 1 2 3 4

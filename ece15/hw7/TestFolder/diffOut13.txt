@@ -1,0 +1,4 @@
+2c2
+< The two halves are equal, picking 1 4
+---
+> The two halves are equel, picking 1 4

@@ -1,0 +1,2 @@
+Enter the integral range (a,b): Enter the number of polygons to use: Rectangle Estimate of 24282899.900978 is off by -0.099022
+Trapezoidal Estimate of 24282900.198045 is off by 0.198045

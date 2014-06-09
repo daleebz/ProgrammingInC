@@ -1,0 +1,2 @@
+Matrix size: Row 1 digits: After clockwise rotation:
+9
